@@ -10,7 +10,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		System.out.println("application starts from here");
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.println("application ends here");
+		System.out.println("application ends here!");
 
 	}
 
